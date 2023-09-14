@@ -3,7 +3,7 @@ Source code for the paper “A spatially adaptive regularization constraint base
 
 ## A spatially adaptive regularization constraint based three-dimensional reconstruction network for susceptibility imaging
 The implementation of SAQSM for QSM reconstruction network  <br />
-This code was tested on Linux18.04
+This code was tested on ubuntu 18.04
 
 ## Overall Framework
 
